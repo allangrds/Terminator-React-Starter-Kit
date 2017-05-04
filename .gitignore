@@ -1,0 +1,9 @@
+# Pasta das dependências
+node_modules/
+
+# Arquivos de build
+public/bundle.js
+public/bundle.css
+
+#Outros#
+.idea/

@@ -1,0 +1,7 @@
+@mixin setColor($color) {
+  color: $color;
+}
+
+.highlight {
+  color: $primary-color;
+}
