@@ -2,6 +2,10 @@
 Terminator - React Starter Kit
 ===
 
+[![dependencies Status](https://david-dm.org/allangrds/terminator-react-starter-kit/status.svg)](https://david-dm.org/allangrds/terminator-react-starter-kit)
+
+[![devDependencies Status](https://david-dm.org/allangrds/terminator-react-starter-kit/dev-status.svg)](https://david-dm.org/allangrds/terminator-react-starter-kit?type=dev)
+
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/futurice/pepperoni-app-kit/blob/master/LICENSE)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
