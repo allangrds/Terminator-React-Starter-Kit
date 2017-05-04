@@ -2,8 +2,9 @@
 Terminator - React Starter Kit
 ===
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/futurice/pepperoni-app-kit/blob/master/LICENSE)
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus. Nunc laoreet facilisis nunc in molestie. Sed aliquam, lectus vel posuere malesuada, arcu nulla efficitur arcu, quis bibendum lectus arcu vitae dolor. Integer sed sem mauris. Fusce porttitor luctus ante, eu pretium justo laoreet et. Nunc eleifend risus nisi. Duis a lacinia odio, in iaculis est. Curabitur nec orci risus.
 
