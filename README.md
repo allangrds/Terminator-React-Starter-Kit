@@ -6,7 +6,7 @@ Terminator - React Starter Kit
 [![devDependencies Status](https://david-dm.org/allangrds/terminator-react-starter-kit/dev-status.svg)](https://david-dm.org/allangrds/terminator-react-starter-kit?type=dev)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/futurice/pepperoni-app-kit/blob/master/LICENSE)
 
-Nós amamos criar coisas com o React, e pensando nisso e lembrado de nossas dificuldades e aprendizados, criamos esse starter kit.
+Nós amamos criar coisas com o React, pensando nisso e lembrado de nossas dificuldades e aprendizados, criamos esse starter kit.
 Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamos.
 
 ## Table of Contents
