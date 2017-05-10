@@ -6,9 +6,8 @@ Terminator - React Starter Kit
 [![devDependencies Status](https://david-dm.org/allangrds/terminator-react-starter-kit/dev-status.svg)](https://david-dm.org/allangrds/terminator-react-starter-kit?type=dev)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/futurice/pepperoni-app-kit/blob/master/LICENSE)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus. Nunc laoreet facilisis nunc in molestie. Sed aliquam, lectus vel posuere malesuada, arcu nulla efficitur arcu, quis bibendum lectus arcu vitae dolor. Integer sed sem mauris. Fusce porttitor luctus ante, eu pretium justo laoreet et. Nunc eleifend risus nisi. Duis a lacinia odio, in iaculis est. Curabitur nec orci risus.
+Nós amamos criar coisas com o React, e pensando nisso e lembrado de nossas dificuldades e aprendizados, criamos esse starter kit.
+Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamos.
 
 ## Table of Contents
 1. [Requirements](#requirements)
@@ -18,19 +17,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate 
 1. [Style](#style)
 1. [Configuration](#configuration)
 
-
 ## Requirements
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
+- node `^4.5.0`
+- npm `^3.10.10`
 
 ## Features & Tools
-- [ ] to do
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
+
+- [ ] Airbnb Style Guide
+- [x] Babel
+- [ ] ESLint
+- [ ] Flux implementation
+- [x] Hot Reload
+- [x] NPM
+- [ ] Jest
+- [x] React
+- [x] React Router
+- [x] Webpack
+
 
 ## Application Structure
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
+```
+```
 
 ## Testing
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
