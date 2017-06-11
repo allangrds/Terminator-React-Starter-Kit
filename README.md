@@ -1,5 +1,4 @@
-![Terminator - React Starter Kit](/docs/terminator.png?v=1)
-Terminator - React Starter Kit
+![Terminator - React Starter Kit](http://i.imgur.com/SHTYfrJ.jpg)
 ===
 
 [![dependencies Status](https://david-dm.org/allangrds/terminator-react-starter-kit/status.svg)](https://david-dm.org/allangrds/terminator-react-starter-kit)
