@@ -1,9 +1,9 @@
-import PostActions from '../actions/PostActions';
+import PostAction from '../actions/PostAction';
 import alt from '../alt';
 
 class PostsStore {
     constructor() {
-        this.bindActions(PostActions);
+        this.bindActions(PostAction);
 
         this.loadingBeanList = false;
         this.beanList = [];

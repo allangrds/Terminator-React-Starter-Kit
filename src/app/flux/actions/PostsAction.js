@@ -1,6 +1,6 @@
 import alt from '../alt';
 
-class PostsActions {
+class PostsAction {
     requestBeanList() {
         const actionDispatcher = this;
 
@@ -10,4 +10,4 @@ class PostsActions {
     }
 }
 
-module.exports = alt.createActions(PostsActions);
+module.exports = alt.createActions(PostsAction);
