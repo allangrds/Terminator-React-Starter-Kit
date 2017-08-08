@@ -9,9 +9,9 @@ class PostsStore {
         this.beanList = [];
     }
 
-    onRequestBeanList() {
+    onRequestBeanList(variable) {
         console.log("onRequestBeanList store");
-        this.loadingBeanList = true;
+        console.log(variable);
     }
 
     _init(rawList = 'rawList value') {

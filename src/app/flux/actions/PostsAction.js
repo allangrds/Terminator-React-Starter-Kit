@@ -4,9 +4,9 @@ class PostsAction {
     requestBeanList() {
         const actionDispatcher = this;
 
-        actionDispatcher.dispatch();
-
         console.log("requested posts - action");
+
+        return 'valor da variável';
     }
 }
 
