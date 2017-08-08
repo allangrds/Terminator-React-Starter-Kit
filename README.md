@@ -25,9 +25,10 @@ Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamo
 
 - [ ] Airbnb Style Guide
 - [x] Babel
-- [ ] ESLint
+- [x] ESLint
 - [ ] Flux implementation
 - [x] Hot Reload
+- [x] CSS Modules
 - [x] NPM
 - [ ] Jest
 - [x] React
