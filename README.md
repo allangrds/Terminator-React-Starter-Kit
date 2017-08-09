@@ -23,17 +23,25 @@ Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamo
 
 ## Features & Tools
 
-- [ ] Airbnb Style Guide
-- [x] Babel
-- [x] ESLint
-- [ ] Flux implementation
-- [x] Hot Reload
-- [x] CSS Modules
-- [x] NPM
-- [ ] Jest
-- [x] React
-- [x] React Router
-- [x] Webpack
+- [x] Task Builder
+  - [x] Webpack
+- [ ] Libraries
+  - [x] React
+  - [x] React Router
+  - [x] Babel
+  - [x] ESLint
+  - [x] Hot Reload
+  - [ ] Flux implementation
+  - [ ] Alt.js
+- [ ] Test automation
+  - [ ] Jest
+  - [ ] Nightwatch Js
+- [ ] Style Guide
+  - [ ] Airbnb Style Guide
+- [ ] CSS
+  - [ ] Stylus
+  - [ ] ITCSS
+  - [x] CSS Modules
 
 
 ## Application Structure
