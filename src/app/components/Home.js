@@ -6,8 +6,8 @@ import Teste from '../flux/actions/Teste';
 
 export default class Home extends Component {
   componentDidMount() {
-    PostsAction.requestBeanList();
-    setTimeout(function(){ console.log(PostsStore); }, 3000);
+    PostsAction.requestPosts();
+    setTimeout(function(){ console.log(PostsStore.getState()); }, 3000);
   }
 
   render(){

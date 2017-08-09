@@ -5,18 +5,11 @@ class PostsStore {
     constructor() {
         this.bindActions(PostsAction);
 
-        this.loadingBeanList = false;
-        this.beanList = [];
+        this.posts = null;
     }
 
-    onRequestBeanList(variable) {
-        console.log("onRequestBeanList store");
-        console.log(variable);
-    }
-
-    _init(rawList = 'rawList value') {
-        console.log("_init store");
-        this.beanList = rawList;
+    onRequestPosts(variable) {
+        this.posts = variable;
     }
 }
 
