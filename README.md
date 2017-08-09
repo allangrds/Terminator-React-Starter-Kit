@@ -40,7 +40,6 @@ Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamo
   - [ ] Airbnb Style Guide
 - [ ] CSS
   - [ ] Stylus
-  - [ ] ITCSS
   - [x] CSS Modules
 
 
