@@ -31,8 +31,8 @@ Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamo
   - [x] Babel
   - [x] ESLint
   - [x] Hot Reload
-- [ ] Flux implementation
-  - [ ] Alt.js
+- [x] Flux implementation
+  - [x] Alt.js
 - [ ] Test automation
   - [ ] Jest
   - [ ] Nightwatch Js
