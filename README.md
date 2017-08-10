@@ -36,7 +36,7 @@ Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamo
   - [x] Alt.js
 - [ ] Test automation
   - [ ] Jest
-  - [ ] Nightwatch Js
+  - [x] Nightwatch Js
 - [ ] CSS
   - [ ] Stylus
   - [x] CSS Modules
@@ -55,7 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate 
 ## Configuration
 
 Install dependencies
-`npm install`
+```
+npm install
+```
 
 Install JDK
 ```
@@ -63,4 +65,6 @@ sudo apt-get install default-jdk
 ```
 
 Run NightwatchJs config file
-`node nightwatch.conf.js`
+```
+node nightwatch.conf.js
+```
