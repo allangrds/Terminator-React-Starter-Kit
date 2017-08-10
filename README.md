@@ -64,6 +64,11 @@ Install JDK
 sudo apt-get install default-jdk
 ```
 
+Install Flow
+```
+npm install -g flow-bin
+```
+
 Run NightwatchJs config file
 ```
 node nightwatch.conf.js
