@@ -8,6 +8,7 @@ public/bundle.css
 # Logs
 logs
 *.log
+reports
 npm-debug.log*
 
 # Runtime data

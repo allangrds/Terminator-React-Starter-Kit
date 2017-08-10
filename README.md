@@ -53,4 +53,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
 
 ## Configuration
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut vulputate odio, in pulvinar massa. Quisque sodales viverra blandit. Donec sed mattis augue. Ut id risus a turpis auctor cursus.
+
+Install dependencies
+`npm install`
+
+Install JDK
+```
+sudo apt-get install default-jdk
+```
+
+Run NightwatchJs config file
+`node nightwatch.conf.js`
