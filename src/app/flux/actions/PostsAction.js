@@ -1,8 +1,9 @@
+/* @flow */
 import alt from '../alt';
 
 class PostsAction {
     requestPosts() {
-      return 'weeeeeeee';
+      return 'weeeeeeee 2';
     }
 }
 

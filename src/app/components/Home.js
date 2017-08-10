@@ -1,3 +1,4 @@
+/* @flow */
 import React, {Component} from 'react';
 import styles from './Home.scss';
 import PostsAction from '../flux/actions/PostsAction';
@@ -7,7 +8,7 @@ import Teste from '../flux/actions/Teste';
 export default class Home extends Component {
   componentDidMount() {
     PostsAction.requestPosts();
-    setTimeout(function(){ console.log(PostsStore.getState()); }, 3000);
+    setTimeout(function(){ console.log(PostsStore.getState()); }, 1000);
   }
 
   render(){

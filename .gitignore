@@ -1,7 +1,4 @@
-# Pasta das dependências
-node_modules/
-
-# Arquivos de build
+# Build files
 public/bundle.js
 public/bundle.css
 
@@ -44,5 +41,5 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-#Outros#
+#Others#
 .idea/
