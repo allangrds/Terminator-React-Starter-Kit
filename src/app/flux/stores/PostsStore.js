@@ -1,17 +1,15 @@
-/* @flow */
 import PostsAction from '../actions/PostsAction';
 import alt from '../alt';
 
 class PostsStore {
-    posts: string;
-    bindActions: PostsAction;
-
     constructor() {
-      this.bindActions(PostsAction);
+        this.bindActions(PostsAction);
+
+        this.posts = null;
     }
 
-    onRequestPosts(variable : string){
-      this.posts = variable;
+    onRequestPosts(variable) {
+        this.posts = variable;
     }
 }
 

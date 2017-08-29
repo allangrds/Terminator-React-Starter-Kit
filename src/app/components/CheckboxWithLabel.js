@@ -1,15 +1,11 @@
-/* @flow */
 import React from 'react';
 
 export default class CheckboxWithLabel extends React.Component {
-  state: {isChecked: boolean};
-  onChange: function;
-  setState: function;
-  props: {labelOn: boolean, labelOff: boolean};
 
-  constructor(props: {}) {
+  constructor(props) {
     super(props);
     this.state = {isChecked: false};
+
     this.onChange = this.onChange.bind(this);
   }
 

@@ -1,4 +1,3 @@
-/* @flow */
 import Alt from 'alt';
 
 var alt = new Alt();

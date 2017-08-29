@@ -1,4 +1,3 @@
-/* @flow */
 import alt from '../alt';
 
 class PostsAction {
