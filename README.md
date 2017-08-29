@@ -25,18 +25,17 @@ Esse starter kit reune alguma das melhores práticas e ferramentas que utilizamo
 
 - [x] Task Builder
   - [x] Webpack
-- [ ] Libraries
+- [x] Libraries
   - [x] React
   - [x] React Router
   - [x] Babel
   - [x] ESLint
   - [x] ESLint React
   - [x] Hot Reload
-  - [ ] Flow
 - [x] Flux implementation
   - [x] Alt.js
-- [ ] Test automation
-  - [ ] Jest
+- [x] Test automation
+  - [x] Jest
   - [x] Nightwatch Js
 - [ ] CSS
   - [ ] Stylus
