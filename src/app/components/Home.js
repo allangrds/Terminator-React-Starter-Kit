@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import styles from './Home.scss';
+import styles from './Home.styl';
 import PostsAction from '../flux/actions/PostsAction';
 import PostsStore from '../flux/stores/PostsStore';
 import Teste from '../flux/actions/Teste';
