@@ -19,7 +19,8 @@ module.exports = {
                 presets: ['es2015', 'react']
             }
       },
-      { test: /\.scss$/,
+      {
+        test: /\.scss$/,
         loader: ExtractTextPlugin.extract({
           fallback: 'style-loader',
           use: [
@@ -29,6 +30,22 @@ module.exports = {
               loader: 'sass-resources-loader',
               options: {
                 resources: './src/assets/css/**/*.scss'
+              }
+            }
+          ]
+        })
+      },
+      {
+        test: /\.styl$/,
+        loader: ExtractTextPlugin.extract({
+          fallback: 'style-loader',
+          use: [
+            'css-loader?modules=true&sourceMap=true&minimize=true&importLoaders=1&localIdentName=[path]___[name]__[local]___[hash:base64:5]',
+            'stylus-loader',
+            {
+              loader: 'stylus-resources-loader',
+              options: {
+                resources: './src/assets/css/**/*.styl'
               }
             }
           ]
